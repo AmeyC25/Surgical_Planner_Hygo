@@ -1,0 +1,11 @@
+torch
+torchvision
+monai
+nibabel
+numpy
+scipy
+streamlit
+openai
+python-dotenv
+pydicom
+dicom2nifti
