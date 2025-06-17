@@ -5,7 +5,7 @@
 ```md
 # 🧠 MRI/CT Brain Segmentation & Clinical Report Generator
 
-This project uses **Deep Learning-based MRI/CT segmentation** to detect brain tumors, ventricles, and gray matter, followed by **GPT-powered clinical report generation**.  
+I used **Deep Learning-based MRI/CT segmentation** to detect brain tumors, ventricles, and gray matter, followed by **GPT-powered clinical report generation**.  
 
 ---
 
@@ -22,7 +22,7 @@ This project uses **Deep Learning-based MRI/CT segmentation** to detect brain tu
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/Krishna2004M/MRI-CT-Segmentation
+git clone https://github.com/AmeyC25/Surgical-Planner-Hygo
 cd MRI-CT-Segmentation
 ```
 
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ### **3️⃣ Run the Application**
 ```bash
-streamlit run app.py
+streamlit run current.py
 ```
 
 ---
@@ -78,16 +78,11 @@ MRI-CT-Segmentation/
 
 ---
 
-## 🏥 Medical Disclaimer
-⚠️ **This project is for research and educational purposes only. It should not be used as a substitute for professional medical diagnosis.**  
+* 
 
 
 ---
 
-## 📧 Contact
-**Author:** M Krishna  
-**Email:** krishbabu2004@gmail.com  
-**GitHub:** [Krishna2004M](https://github.com/Krishna2004M/MRI-CT-Segmentation)
 ```
 
 ---
